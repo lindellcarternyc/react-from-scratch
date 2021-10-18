@@ -1,0 +1,8 @@
+{
+  "name": "react-from-scratch",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/lindellcarternyc/react-from-scratch.git",
+  "author": "Lindell Carter <lindellcarternyc@gmail.com>",
+  "license": "MIT"
+}
